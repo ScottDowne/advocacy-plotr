@@ -1,4 +1,4 @@
-advocacy-test-plotr
+advocacy-plotr
 ===========
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/auremoser/pirateplotr/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
